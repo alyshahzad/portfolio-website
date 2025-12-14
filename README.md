@@ -13,7 +13,10 @@ Website Using HTML, CSS, SCSS and JavaScript, with a wonderful user interface.
 - Contact
 
 <div align="center">
-<a href=" ">https://alyshahzad.github.io/portfolio-website/<strong>➥ Live Demo</strong></a>
+  <a href="https://alyshahzad.github.io/portfolio-website/" target="_blank">
+    <strong>➥ Live Demo</strong>
+  </a>
+</div>
 
 <p align="center"><b>"Liked the code? Fork it, tweak it, and make it your masterpiece!".</p? <br>
 </div>
